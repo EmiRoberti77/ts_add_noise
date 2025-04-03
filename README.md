@@ -139,9 +139,3 @@ const noisyReachGaussian = NoiseGenerator.addNoise(1200, 'gaussian', {
   └── noiseGenerator.ts
 README.md
 ```
-
----
-
-## 📩 Questions?
-
-Feel free to reach out or open an issue if you need help tuning noise levels for your specific CMM pipeline.
